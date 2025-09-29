@@ -1,35 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=KINGSTORE VPN AUTOSCRIPT !;Explore the world of features!" /></p>
 
-### CLEAR INSTALLER SCRIPT IN YOUR VPS THANKS FOR BIN456789
-### rebuild deb 10 selain do
-
-<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Debian 10 && reboot</code></pre>
-### rebuil deb 11
-
-<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Debian 11 && reboot</code></pre>
-### rebuild deb 12
-
-<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Debian 12 && reboot</code></pre>
 ### rebuild ubuntu 20.04
 
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 20.04 && reboot</code></pre>
-### rebuild ubuntu 22
-
-<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 22 && reboot</code></pre>
-### rebuild ubuntu 24
-
-<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 24.04 && reboot</code></pre>
 
 ### INSTALL SCRIPT 
-<pre><code>apt update -y && apt install -y wget curl && wget -q https://raw.githubusercontent.com/kingstorevpn/os/main/setup.sh && chmod +x setup.sh && ./setup.sh
+<pre><code>apt update -y && apt install -y wget curl && wget -q https://raw.githubusercontent.com/sweaterpinks/os/main/bashvpn.sh && chmod +x bashvpn.sh && bash bashvpn.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/kingstorevpn/os/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
-
-### PERINTAH BACKUP KHUSUS
-<pre><code>wget -qO /usr/sbin/backupot "https://raw.githubusercontent.com/diah082/vip/main/menu/backupot" && chmod +x /usr/sbin/backupot && backupot</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/sweaterpinks/os/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04 22 24.04 24.10
