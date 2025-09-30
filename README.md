@@ -10,8 +10,8 @@
 ### PERINTAH UPDATE 
 <pre><code>wget -q https://raw.githubusercontent.com/sweaterpinks/os/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
-###fix 
-<pre><code>wget -q https://raw.githubusercontent.com/sweaterpinks/os/main/fix.sh && chmod +x fix.sh && ./fix.sh</code></pre>
+### FIX BACUKP 
+<pre><code>wget -q https://raw.githubusercontent.com/sweaterpinks/os/main/fixbackup.sh && chmod +x fixbackup.sh && bash fixbackup.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04 22 24.04 24.10
@@ -23,7 +23,7 @@
 - Tambah Swap 2 GiB
 - Pemasangan yang dinamis
 - Register IP Dari VPS
-- Pointing Domain 
+- Pointing DomaiN
 - Xray Core
 - Penambahan fail2ban
 - Auto block sebagian ads indo by default
