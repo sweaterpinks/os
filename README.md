@@ -10,6 +10,9 @@
 ### PERINTAH UPDATE 
 <pre><code>wget -q https://raw.githubusercontent.com/sweaterpinks/os/main/menu/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
+###fix 
+<pre><code>wget -q https://raw.githubusercontent.com/sweaterpinks/os/main/fix.sh && chmod +x fix.sh && ./fix.sh</code></pre>
+
 ### TESTED ON OS 
 - UBUNTU 20.04 22 24.04 24.10
 - DEBIAN 10 11 12
