@@ -22,7 +22,7 @@ if ! command -v 7z &> /dev/null; then
     apt install p7zip-full -y &> /dev/null &
     loading $! "Loading Install p7zip-full"
 fi
-CHATID="-100839759989"
+CHATID="-109759989"
 KEY="7669028254:AAGiawvop_rQG3T-DTjxcqv8rP4TNcPAXac"
 TIME="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
